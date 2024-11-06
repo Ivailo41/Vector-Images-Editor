@@ -1,4 +1,4 @@
-# VectorImages_Project
+# Vector-Images-Editor
 
 ## Summary
 This project was an assignment for the Object Oriented Programming course at my university.
