@@ -4,6 +4,9 @@
 This project was an assignment for the Object Oriented Programming course at my university.
 The program is capable of creating and editing vector images. Only a few shapes are supported at the moment with the possibility to be saved as SVG file or a custom txt file.
 
+## Building the project
+`Build system to be implemented` As the project was originally an assignment from my university, it didn't feature any build systems like CMake. It will be implemented in the near feature
+
 ## Usage
 The program is a console application without UI that works by typing the available commands.
 
